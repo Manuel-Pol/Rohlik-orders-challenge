@@ -1,0 +1,14 @@
+# Ignorar los archivos csv
+*.csv
+
+# Ignorar los archivos de compilación de macOS
+.DS_Store
+
+# Ignorar los archivos generados por editores de texto
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Ignorar archivos de configuración específicos de sistemas operativos
+Thumbs.db
