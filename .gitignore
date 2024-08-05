@@ -12,3 +12,5 @@
 
 # Ignorar archivos de configuración específicos de sistemas operativos
 Thumbs.db
+
+/catboost_info
